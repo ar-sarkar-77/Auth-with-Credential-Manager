@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919332260666",
+    "project_id": "loginwithcredentialauth",
+    "storage_bucket": "loginwithcredentialauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919332260666:android:6b3d7e537b38b493925e03",
+        "android_client_info": {
+          "package_name": "com.anondo.loginflowwithauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919332260666-ce5qv9o216ob17jqgrh8v7m9983e3845.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBavRHDpdJEyws4uBHbQSRcbgQu1rbOtpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919332260666-ce5qv9o216ob17jqgrh8v7m9983e3845.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
