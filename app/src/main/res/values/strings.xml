@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Log In Flow with Auth</string>
+    <string name="app_name">Auth with Credencial Manager</string>
     <string name="googleLogIn_ClientId">919332260666-ce5qv9o216ob17jqgrh8v7m9983e3845.apps.googleusercontent.com</string>
 </resources>
